@@ -1,0 +1,37 @@
+body{
+    background-color: #ffefef;
+}
+
+h1,h3{
+    color: rgb(255, 0, 179);
+    text-align: center;
+    align-items: center;
+}
+
+h4{
+    color: rgb(145, 1, 80);
+    text-align: center;
+    align-items: center;
+}
+
+p{
+    color: rgb(125, 0, 87);
+    text-align: center;
+    align-items: center;
+}
+
+.grid-img{
+    height: 500px;
+    width: 400px;
+}
+
+.caixa{
+    text-align: center;
+    align-items: center;
+}
+
+legend{
+    text-align: center;
+    align-items: center;
+}
+
